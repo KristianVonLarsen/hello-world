@@ -3,3 +3,5 @@ Now with 3 dots...
 Hej - bare en lille rettelse
 
 Emergency Fix
+
+Some changes in master
