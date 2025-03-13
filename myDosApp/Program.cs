@@ -11,6 +11,7 @@ namespace myDosApp
         static void Main(string[] args)
         {
             bool gotYa = true;
+            bool fixChange = true;
         }
     }
 }
