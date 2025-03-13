@@ -1,0 +1,7 @@
+C:\git\GitTesting\myDosApp\bin\Debug\myDosApp.exe.config
+C:\git\GitTesting\myDosApp\bin\Debug\myDosApp.exe
+C:\git\GitTesting\myDosApp\bin\Debug\myDosApp.pdb
+C:\git\GitTesting\myDosApp\obj\Debug\myDosApp.csproj.AssemblyReference.cache
+C:\git\GitTesting\myDosApp\obj\Debug\myDosApp.csproj.CoreCompileInputs.cache
+C:\git\GitTesting\myDosApp\obj\Debug\myDosApp.exe
+C:\git\GitTesting\myDosApp\obj\Debug\myDosApp.pdb
